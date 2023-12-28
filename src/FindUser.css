@@ -1,0 +1,16 @@
+
+.search h2 {
+    font-size: xx-large;
+}
+
+.search input {
+    width: 350px;
+    height: 40px;
+    padding: 0.5rem;
+    font-size: 20px;
+    border-radius: 1rem;
+}
+
+.result p {
+    font-size: 1.5rem;
+}
